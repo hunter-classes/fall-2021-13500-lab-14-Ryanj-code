@@ -1,3 +1,11 @@
+/*
+Author: Ryan Jiang
+Course: CSCI-235
+Instructor: Mike Zamansky
+Assignment: Lab 14
+This file contains the functions for the template class MyVector.
+*/
+
 #include <iostream>
 #include "MyVector.h"
 
