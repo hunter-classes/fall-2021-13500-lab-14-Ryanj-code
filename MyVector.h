@@ -1,3 +1,11 @@
+/*
+Author: Ryan Jiang
+Course: CSCI-135/235
+Instructor: Mike Zamansky
+Assignment: Lab 14
+This is the header file for the template class MyVector.
+*/
+
 #pragma once
 
 template <class T>
