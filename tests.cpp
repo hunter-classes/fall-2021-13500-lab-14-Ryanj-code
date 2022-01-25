@@ -1,6 +1,6 @@
 /*
 Author: Ryan Jiang
-Course: CSCI-235
+Course: CSCI-135/235
 Instructor: Mike Zamansky
 Assignment: Lab 14
 This file contains the tests for the functions in MyVector.cxx
