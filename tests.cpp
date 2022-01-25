@@ -1,3 +1,11 @@
+/*
+Author: Ryan Jiang
+Course: CSCI-235
+Instructor: Mike Zamansky
+Assignment: Lab 14
+This file contains the tests for the functions in MyVector.cxx
+*/
+
 #define DOCTEST_CONFIG_IMPLEMENT_WITH_MAIN
 #include "doctest.h"
 #include <iostream>
